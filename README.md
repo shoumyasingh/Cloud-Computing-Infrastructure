@@ -10,6 +10,13 @@ In this project we use the concepts of Ingress ,ConfigMaps and Service ,on kuber
 <a href="https://github.com/shoumyasingh/Cloud-Computing-Infrastructure/blob/main/kubernetes_Signature_Project/CS571_Signature_Project_Shoumya_Singh.pdf"> document</a>
 </details>
 
+<details>
+<summary>Below is the document with detailed instruction</summary>
+<a href="https://docs.google.com/presentation/d/1L_xvQDlioCY-XgoFilKNnvpnN8ZRxzgDArRJU3icTa0/present?usp=sharing"> Google Slide</a>
+</details>
+
+
+
 ## Techniques Used in the project: ##
 Technique_used![image](https://user-images.githubusercontent.com/26141894/114477051-640c2900-9bb0-11eb-81cb-b947ce23c60a.png)
 
