@@ -11,7 +11,7 @@ In this project we use the concepts of Ingress ,ConfigMaps and Service ,on kuber
 </details>
 
 <details>
-<summary>Below is the document with detailed instruction</summary>
+<summary>Below is the Google Slide with instructions</summary>
 <a href="https://docs.google.com/presentation/d/1L_xvQDlioCY-XgoFilKNnvpnN8ZRxzgDArRJU3icTa0/present?usp=sharing"> Google Slide</a>
 </details>
 
