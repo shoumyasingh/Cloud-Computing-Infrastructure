@@ -1,20 +1,18 @@
 # Kubernetes Project
 Signature Project : MongoDB + Python Flask Web Framework + REST API + GKE
 
-# Introduction: 
-In this project we use the concepts of Ingress ,ConfigMaps and Service ,on kubernetes to host two different applications but will it hosted under the same domain but in different path. Both the applications will be using MongoDB hosted on Google kubernetes Engine via Google Cloud Computing to stare the data.
-
-## How to run ##
 <details>
-<summary>Below is the document with detailed instruction</summary>
-<a href="https://github.com/shoumyasingh/Cloud-Computing-Infrastructure/blob/main/kubernetes_Signature_Project/CS571_Signature_Project_Shoumya_Singh.pdf"> document</a>
-</details>
-
-<details>
-<summary>Below is the Google Slide with instructions</summary>
+<summary>Below is the Google Slide with Instructions</summary>
 <a href="https://docs.google.com/presentation/d/1L_xvQDlioCY-XgoFilKNnvpnN8ZRxzgDArRJU3icTa0/present?usp=sharing"> Google Slide</a>
 </details>
 
+<details>
+<summary>Below is the document with detailed Instruction</summary>
+<a href="https://github.com/shoumyasingh/Cloud-Computing-Infrastructure/blob/main/kubernetes_Signature_Project/CS571_Signature_Project_Shoumya_Singh.pdf"> document</a>
+</details>
+
+# Introduction: 
+In this project we use the concepts of Ingress ,ConfigMaps and Service ,on kubernetes to host two different applications but will it hosted under the same domain but in different path. Both the applications will be using MongoDB hosted on Google kubernetes Engine via Google Cloud Computing to stare the data.
 
 
 ## Techniques Used in the project: ##
