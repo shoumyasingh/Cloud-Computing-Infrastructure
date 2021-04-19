@@ -1,4 +1,4 @@
-# Cloud-Computing-Infrastructure
+# Kubernetes Project
 Signature Project : MongoDB + Python Flask Web Framework + REST API + GKE
 
 # Introduction: 
