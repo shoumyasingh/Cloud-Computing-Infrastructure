@@ -1,7 +1,7 @@
 
 # Kubernetes Projects
 
-1 . Signature Project : MongoDB + Python Flask Web Framework + REST API + GKE
+**1 . Signature Project : MongoDB + Python Flask Web Framework + REST API + GKE
 
 <details>
 <summary>Below is the Google Slide with Instructions</summary>
@@ -14,4 +14,4 @@
 </details>
 
 
-2 . Apache Spark Project : Work Count + PageRank
+**2 . Apache Spark Project : Work Count + PageRank
