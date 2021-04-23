@@ -5,7 +5,7 @@
 
 <details>
 <summary>Below is the Google Slide with Instructions</summary>
-<a href="https://docs.google.com/presentation/d/1L_xvQDlioCY-XgoFilKNnvpnN8ZRxzgDArRJU3icTa0/edit?usp=sharing"> Google Slide</a>
+<a href="https://docs.google.com/presentation/d/1L_xvQDlioCY-XgoFilKNnvpnN8ZRxzgDArRJU3icTa0/present?usp=sharing"> Google Slide</a>
 </details>
 
 <details>
