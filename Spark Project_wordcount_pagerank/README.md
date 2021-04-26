@@ -8,6 +8,10 @@ Apache spark Project : Wordcount + PageRank + GKE
 "> Document</a>
 </details>
 
+<details>
+<summary>Below is the Google Slide with Instructions</summary>
+<a href="https://docs.google.com/presentation/d/1LljqvoZjwTmyVgQuBBLKPFtqfOzOU0RkgtrKUVppWxI/present?usp=sharing"> Google Slide</a>
+</details>
 
 # Introduction: 
 Using PySpark to implement Word Count and PageRank on Apache Spark running on Kubernetes.
